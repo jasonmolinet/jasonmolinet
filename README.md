@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration and Ticket Lifecycle](https://github.com/jasonmolinet/post-install-config)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jasonmolinet/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jasonmolinet/azure-network-protocols)
+  - [Network File Sharing within Azure VMs](https://github.com/jasonmolinet/azure-network-file-sharing)
 
 <h2>🤳Connect with me:</h2>
 
