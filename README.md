@@ -8,6 +8,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jasonmolinet/configure-ad)
   - [Network File Sharing within Azure VMs](https://github.com/jasonmolinet/azure-network-file-sharing)
+  - [User Password Reset within Azure VMs](https://github.com/jasonmolinet/azure-user-password-reset)
+
 
 <h2>🤳Connect with me:</h2>
 
